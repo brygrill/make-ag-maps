@@ -2,4 +2,5 @@
 Make lots of maps quickly
 
 To-do:
-- push code
+- Re-write to insert Excel tables into maps instead of jpgs
+- Breakdown script into functions
